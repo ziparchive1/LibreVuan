@@ -1,3 +1,5 @@
+# PROJECT IN "VIP" STATUS!
+
 # LibreVuan
 Librevuan: simple devuan
 
