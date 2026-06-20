@@ -1,4 +1,4 @@
-# PROJECT IN "VIP" STATUS!
+# PROJECT IN "WIP" STATUS!
 
 # LibreVuan
 Librevuan: simple devuan
