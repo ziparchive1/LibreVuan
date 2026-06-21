@@ -1,6 +1,6 @@
 <img width="1920" height="489" alt="Без названия188_20260620023246" src="https://github.com/user-attachments/assets/18f5e827-a5df-4220-a435-dc8f922229a0" />
 
-# PLEASE CHEK README FOR INSTALL! 
+# PLEASE CHECK README FOR INSTALL! 
 sudo password = librevuan
 Use "Install Debian" NOT "Install system"
 BUGS TO ISSUES!
