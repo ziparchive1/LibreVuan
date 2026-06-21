@@ -1,4 +1,6 @@
-# PROJECT IN "WIP" STATUS!
+# PLEASE CHEK README FOR INSTALL! 
+sudo password = librevuan
+Use "Install Debian" NOT "Install system"
 
 # LibreVuan
 Librevuan: simple devuan
