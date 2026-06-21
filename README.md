@@ -1,7 +1,7 @@
 # PLEASE CHEK README FOR INSTALL! 
 sudo password = librevuan
 Use "Install Debian" NOT "Install system"
-
+BUGS TO ISSUES!
 # LibreVuan
 Librevuan: simple devuan
 
