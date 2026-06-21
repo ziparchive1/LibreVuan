@@ -4,6 +4,8 @@
 sudo password = librevuan
 Use "Install Debian" NOT "Install system"
 BUGS TO ISSUES!
+Wallpapers on /home/"uname"/wallpapers
+wallpapers is experemental, so manual
 # LibreVuan
 Librevuan: simple devuan
 
