@@ -1,6 +1,6 @@
 im sorry.
 
-# LIBREVUAN IS CURRENTLT UNMAINTANED!
+# LIBREVUAN IS CURRENTLY UNMAINTANED!
 i cant do it solo, but, i can do it in team
 #letsmakelibrevuanstillalive!
 
